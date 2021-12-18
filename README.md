@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahan
 - 👀 I’m interested in application development 
-- 🌱 I’m currently learning flutter & python
+- 🌱 I’m currently learning flutter & python & ML 
 - 📫 Telegram => mahan_e84 / Discord => mahan.e84#0510
 
 <!---
